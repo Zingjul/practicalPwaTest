@@ -53,6 +53,9 @@ export default function Home() {
         <small>{progress}% complete</small>
       </aside>
       <main>
+        <h2>
+          <p className="eyebrow">Shepherd Nandom | Mechatronics | 2022/1/89367ET</p>
+        </h2>
         <p className="eyebrow">FOUNDATION TRACK</p>
         <h1>Keep learning when the network leaves.</h1>
         <p className="lede">Save a note, refresh the page, then test the same experience with the network turned off.</p>
